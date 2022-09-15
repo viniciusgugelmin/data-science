@@ -36,10 +36,14 @@
 - Alunos:
   - Vinícius Kruchelski Gugelmin
   - Lucas Rodrigues Leite
-- Dados utilizados:
-  - (A definir)
-    - [Dataset](https://www.kaggle.com/)
-    - [Dicionário de Dados](https://www.kaggle.com/)
+- Projetos:
+  - [Base de despesas](https://github.com/viniciusgugelmin/data-science/tree/main/projects/base_de_despesas)
+    - [Dataset](https://github.com/viniciusgugelmin/data-science/blob/main/projects/base_de_despesas/data/dataset.csv)
+    - [Dicionário de Dados](https://github.com/viniciusgugelmin/data-science/blob/main/projects/base_de_despesas/data/data_dictionary.xlsx)
+    - [Dataset limpo](https://github.com/viniciusgugelmin/data-science/blob/main/projects/base_de_despesas/data/dataset_clean.csv)
+    - [Notebook de Limpeza](https://github.com/viniciusgugelmin/data-science/blob/main/projects/base_de_despesas/notebooks/cleaning.ipynb)
+    - [Notebook de Análise Exploratória](https://github.com/viniciusgugelmin/data-science/blob/main/projects/base_de_despesas/data/exploratory_analysis.ipynb)
+    - [Referências](https://github.com/viniciusgugelmin/data-science/blob/main/projects/base_de_despesas/README.md)
 
 <a name="about-the-project"></a>
 
