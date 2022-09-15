@@ -42,7 +42,7 @@
     - [Dicionário de Dados](https://github.com/viniciusgugelmin/data-science/blob/main/projects/base_de_despesas/data/data_dictionary.xlsx)
     - [Dataset limpo](https://github.com/viniciusgugelmin/data-science/blob/main/projects/base_de_despesas/data/dataset_clean.csv)
     - [Notebook de Limpeza](https://github.com/viniciusgugelmin/data-science/blob/main/projects/base_de_despesas/notebooks/cleaning.ipynb)
-    - [Notebook de Análise Exploratória](https://github.com/viniciusgugelmin/data-science/blob/main/projects/base_de_despesas/data/exploratory_analysis.ipynb)
+    - [Notebook de Análise Exploratória](https://github.com/viniciusgugelmin/data-science/blob/main/projects/base_de_despesas/notebooks/exploratory_analysis.ipynb)
     - [Referências](https://github.com/viniciusgugelmin/data-science/blob/main/projects/base_de_despesas/README.md)
 
 <a name="about-the-project"></a>
